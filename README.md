@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at [@evo-company](https://github.com/evo-company)
+- ⚡ I’m currently working on [lets task runner](https://github.com/lets-cli/lets)
+
 <!--
 **kindermax/kindermax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
