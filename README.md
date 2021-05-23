@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [@evo-company](https://github.com/evo-company)
+- 🔭 I’m currently working at [@evo-company](https://github.com/evo-company) as a Python web developer
 - ⚡ I’m developing [Lets task runner](https://github.com/lets-cli/lets)
 - ⚙️ Learning Rust
 
