@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [@evo-company](https://github.com/evo-company) as a Python web developer
 - ⚡ I’m developing [Lets task runner](https://github.com/lets-cli/lets)
-- ⚙️ Learning Rust
+- ⚙️ Learning Rust for fun
 
 <!--
 **kindermax/kindermax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
