@@ -4,6 +4,7 @@
 - ⚡ I’m developing [Lets task runner](https://github.com/lets-cli/lets)
 - ⚙️ Learning Rust for fun
 
+My personal blog [mkind.dev](https://mkind.dev/)
 <!--
 **kindermax/kindermax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
