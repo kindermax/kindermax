@@ -1,4 +1,4 @@
-### Stand with Ukraine🇺🇦 !!!
+### 🇺🇦 Stand with Ukraine 🇺🇦
 
 - 🔭 I’m currently working at [@evo-company](https://github.com/evo-company) as a Python web developer/Team Lead
 - ⚡ I’m developing [Lets task runner](https://github.com/lets-cli/lets)
