@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working at [@evo-company](https://github.com/evo-company) as a Python web developer/Team Lead
 - ⚡ I’m developing [Lets task runner](https://github.com/lets-cli/lets)
-- ⚙️ Learning Rust for fun
+- ⚙️ Writing Rust for fun
+- ⚡ Fan of graphql
 
 My personal blog [mkind.dev](https://mkind.dev/)
 <!--
