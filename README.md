@@ -1,8 +1,8 @@
 ### 🇺🇦 Stand with Ukraine 🇺🇦
 
-- 🔭 I’m currently working at [@evo-company](https://github.com/evo-company) as a Python web developer/Team Lead
+- 🔭 I’m currently working at [@evo-company](https://github.com/evo-company) as a Senior Python web developer/Team Lead
 - ⚡ I’m developing [Lets task runner](https://github.com/lets-cli/lets)
-- ⚙️ Writing Rust for fun
+- ⚙️ Code in Rust and Go sometimes
 - ⚡ Fan of graphql
 
 My personal blog [mkind.dev](https://mkind.dev/)
